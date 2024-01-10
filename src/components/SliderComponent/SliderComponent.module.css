@@ -1,0 +1,71 @@
+.SliderComponent {
+    margin-top: 20px;
+    border: 1px solid #eff3f5;
+    border-radius: 5px;
+}
+
+.SliderComponentRow {
+    padding: 12px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.SliderComponentItemBtn {
+    width: 98%;
+    border: 0;
+    box-shadow: none;
+    text-align: start;
+    margin: 4px 0;
+}
+
+.SliderComponentItemBtnActive {
+    background-color: #e5f1ff;
+    text-align: start;
+    width: 98%;
+    font-weight: 700;
+    border: 0;
+    box-shadow: none;
+    margin: 0 12px;
+    margin: 4px 0;
+}
+
+.SliderComponentRight {
+    margin: 0 20px 0 20px;
+}
+
+.SliderComponentRightSignIn {
+    background: #e3f0ff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.SliderComponentRightSignInAVT {
+    margin-bottom: 12px;
+}
+
+.SliderComponentRightSignInAVTContent {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.SliderComponentRightContent {
+    background: #f38332;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 20px;
+    height: 70px;
+    padding: 12px;
+    border-radius: 5px;
+
+}
+
+.SliderComponentRightContent2 {
+    background:#55bdc3;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 20px;
+    height: 70px;
+    padding: 12px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,42 @@
+.SubsbriceComponent{
+    margin-top: 20px;
+}
+
+.SubsbriceComponent {
+  text-align: center;
+  padding: 40px 0;
+  background: #eff2f4;
+}
+
+.SubsbriceComponent h3{
+    margin-bottom: 0;
+}
+
+.SubsbriceComponent > span{
+    color: #b7b9ba;
+}
+
+.SubsbriceComponentInputContainer {
+    position: relative;
+}
+
+.SubsbriceComponentBTN {
+    position: absolute;
+    top: 21px;
+    right: 480px;
+    height: 34px;
+
+}
+
+.SubsbriceComponentIcon {
+    position: absolute;
+    left: 486px;
+    top: 30px;
+    opacity: 0.2;
+}
+
+.SubsbriceComponentInput {
+    width: 25%;
+    padding: 6px 6px 6px 30px;
+    margin-top: 20px;
+}

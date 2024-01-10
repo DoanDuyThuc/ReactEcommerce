@@ -1,0 +1,60 @@
+.SalesComponent {
+    margin-top: 20px;
+    background-color: #fff;
+}
+
+.SalesComponentLeftTitle {
+    margin: 0;
+}
+
+.SalesComponentLeftContent {
+    color: #a8b0bc;
+}
+
+.SalesComponentTimerList {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.SalesComponentTimerItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    padding: 6px;
+    margin-right: 6px;
+    background: #606060;
+    border-radius: 5px;
+    width: 30px;
+}
+
+.SalesComponentTimerItemCount {
+    margin: 0;
+}
+
+.SalesComponentRight {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.SalesComponentItem {
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0;
+    width: 100%;
+    align-items: center;
+    border-right: 1px solid #efefef;
+}
+
+.SalesComponentItemTitle {
+    margin: 20px 0 12px 0;
+}
+
+.SalesComponentItemBTN {
+    border: 0;
+    background: #ffe3e3;
+    border-radius: 50px;
+    color: red;
+}

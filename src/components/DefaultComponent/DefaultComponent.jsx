@@ -1,3 +1,4 @@
+import FooterComponent from "../FooterComponent/FooterComponent";
 import HeaderComponent from "../HeaderComponent/HeaderComponent";
 
 
@@ -6,6 +7,7 @@ function DefaultComponent({children}) {
       <div className="DefaultComponent">
             <HeaderComponent/>
             {children}
+            <FooterComponent/>
       </div>
     );
   }

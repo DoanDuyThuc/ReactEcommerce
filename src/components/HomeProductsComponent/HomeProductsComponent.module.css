@@ -1,0 +1,39 @@
+.HomeProductsComponent {
+    margin-top: 20px;
+}
+
+.HomeProductsComponentLeft {
+    position: relative;
+}
+
+.HomeProductsComponentLeftContent {
+    position: absolute;
+    top: 0;
+    left: 26px;
+}
+
+.HomeProductsComponentLeftBtn {
+    border: 0;
+    font-weight: 600;
+}
+
+.HomeProductsComponentRightItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    height: 96px;
+    border: 1px solid #efefef;
+    align-items: start;
+
+}
+
+.HomeProductsComponentRightContent {
+    display: flex;
+    flex-direction: column;
+    color: #a4adb8;
+}
+
+.HomeProductsComponentRightTitle h4{
+    margin: 0 0 12px 0;
+    font-weight: 600;
+}

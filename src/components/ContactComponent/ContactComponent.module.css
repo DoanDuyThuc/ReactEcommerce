@@ -1,0 +1,33 @@
+.ContactComponent {
+    margin-top: 20px;
+}
+.ContactComponentContain {
+   position: relative;
+    
+}
+
+.ContactComponentContainImage {
+    background-color: #2c7cf1; /* Dành cho trình duyệt không hỗ trợ Gradient */
+    background-image: linear-gradient(to left, #2c7cf1, blue);
+}
+
+.ContactComponentContainTitle {
+    position: absolute;
+    top: 20px;
+    left: 34px;
+    width: 440px;
+    color: #fff;
+}
+
+.ContactComponentContainFromInput {
+    position: absolute;
+    top: 40px;
+    right: 34px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.ContactComponentContainFromInput input {
+    margin: 20px 0;
+}

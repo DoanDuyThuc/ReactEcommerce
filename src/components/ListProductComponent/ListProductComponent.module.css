@@ -1,0 +1,26 @@
+.ListProductComponent {
+    margin-top: 20px;
+    background: #f7fafc;
+}
+
+.ListProductComponentContain {
+    margin: 0 -8px;
+}
+
+.ListProductComponentItem{
+    width: 18.7%;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #efefef;
+    margin: 8px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+.ListProductComponentItem span{
+    color: #a4adb8;
+}
+
+.ListProductComponentItemContent{
+    text-align: start;
+}

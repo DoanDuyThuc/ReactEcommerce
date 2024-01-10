@@ -1,0 +1,95 @@
+.FooterComponent {
+    margin: 20px 0 40px 0;
+    padding: 0 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.FooterComponentContainer {
+    width: 100%;
+}
+
+.FooterComponentItemCol {
+    display: flex;
+    justify-content: space-between;
+}
+
+.FooterComponentItem{
+    display: flex;
+    flex-direction: column;
+}
+
+.FooterComponentItem h4{
+    font-weight: 600;
+}
+
+.FooterComponentItem span{
+    color: #aeb5c0;
+}
+
+.FooterComponentLeft {
+    padding-right: 24px;
+  
+}
+
+.FooterComponentLeftLogo {
+
+}
+
+.FooterComponentLeftLogo > p{
+    color: #616161;
+}
+
+.FooterComponentNetwork {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.FooterComponentNetworkItem {
+    height: 30px;
+    width: 30px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    background: #bdc4cd;
+    color: #fff;
+    margin-right: 8px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.FooterComponentItemIcon {
+    font-size: 30px;
+    color: #fff !important;
+    margin-right: 8px;
+}
+
+.FooterComponentItemBTN {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    background: black;
+    border: 5px;
+    margin-top: 10px;
+}
+
+.FooterComponentItemTitle {
+    font-size: 8px;
+    color: #fff !important;
+    text-align: start;
+}
+
+.FooterComponentItemContent {
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff !important;
+}
+
+
+.FooterComponentEnd {
+    background: #eff2f4;
+    padding: 20px 120px;
+    display: flex;
+    justify-content: space-between;
+}
